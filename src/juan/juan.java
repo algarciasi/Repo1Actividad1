@@ -7,6 +7,6 @@ public class juan {
 
 	}
 private static void minombre() {
-	System.out.println("hola me llamo Juan Ángel");
+	System.out.println("Hola me llamo Juan Ángel!");
 }
 }
